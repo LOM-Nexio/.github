@@ -1,5 +1,7 @@
 # 🏠 Lean On Me - Canada's Leading Fence Repair Company
 
+![Lean On Me Logo](https://nexio-photo-uploads.s3.ca-east-006.backblazeb2.com/logo/LOM-new-logo.png)
+
 ![Fence Repair & Restoration](https://wefixfences.ca)
 
 ## About Us
