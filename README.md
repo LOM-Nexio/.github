@@ -2,8 +2,6 @@
 
 ![Lean On Me Logo](https://nexio-photo-uploads.s3.ca-east-006.backblazeb2.com/logo/LOM-new-logo.png)
 
-![Fence Repair & Restoration](https://wefixfences.ca)
-
 ## About Us
 
 **Lean On Me** is Canada's premier fence repair and restoration company, dedicated to preserving and strengthening wooden fences across the nation—from major cities to small towns.
